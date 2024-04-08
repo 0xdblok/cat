@@ -28,19 +28,19 @@ export default function Cat() {
         </div>
         <div className="animate__animated animate__fadeInUp">
           <h2 className="pt-4  text-xs text-center text-[#2E387D]">Day3</h2>
-          <div className="flex px-[110px] lg:px-[0px]  px-[80px] justify-center">
+          <div className="flex px-[110px] lg:px-[0px]   justify-center">
             <Image src={cat3} alt="cat1" width={350} height={350} />{" "}
           </div>
         </div>
         <div className="animate__animated animate__fadeInUp">
           <h2 className="pt-4  text-xs text-center text-[#2E387D]">Day4</h2>
-          <div className="flex px-[110px] lg:px-[0px]  px-[80px] justify-center">
+          <div className="flex px-[110px] lg:px-[0px]  justify-center">
             <Image src={cat4} alt="cat1" width={350} height={350} />{" "}
           </div>
         </div>
         <div className="animate__animated animate__fadeInUp">
           <h2 className="pt-4  text-xs text-center text-[#2E387D]">Day5</h2>
-          <div className="flex px-[110px] lg:px-[0px]  px-[80px] justify-center">
+          <div className="flex px-[110px] lg:px-[0px]   justify-center">
             <Image src={cat5} alt="cat1" width={350} height={350} />{" "}
           </div>
         </div>
