@@ -24,7 +24,7 @@ https://t.me/+zxtCG8a4gJI5YzBl"
         </a>
         <a
           href="
-https://twitter.com/dumbcatsol/"
+https://twitter.com/zkdumbcat/"
         >
           {" "}
           <Image
