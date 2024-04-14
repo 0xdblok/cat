@@ -17,9 +17,11 @@ export default function Tokenomics() {
           fair launch for all meows out there!!!{" "}
         </p>
       </div>
-      <div className="pt-10   text-[#2E387D]">
+      <div className="pt-10  text-center text-[#2E387D]">
         <p className=" tracking-[.08em]">Contract Address</p>
-        <p className=" tracking-[.08em]">TBA</p>
+        <p className=" tracking-[.08em]">
+          0x203ef7fbf580a42c429caa3caa258575e514100e
+        </p>
       </div>
     </div>
   );
