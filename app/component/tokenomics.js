@@ -19,7 +19,9 @@ export default function Tokenomics() {
       </div>
       <div className="pt-10  text-center text-[#2E387D]">
         <p className=" tracking-[.08em]">Contract Address</p>
-        <p className=" tracking-[.08em]">TBA</p>
+        <p className=" tracking-[.08em]">
+          0x04162f660c63079874DAFf3840F9F525B00D8003
+        </p>
       </div>
     </div>
   );
