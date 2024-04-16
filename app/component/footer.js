@@ -11,8 +11,7 @@ export default function Footer() {
       <div className="flex gap-2 pt-10 justify-end pb-4 pr-6">
         <a
           href="
-https://t.me/+zxtCG8a4gJI5YzBl"
-        >
+https://t.me/+zxtCG8a4gJI5YzBl">
           {" "}
           <Image
             src={tele}
@@ -22,10 +21,7 @@ https://t.me/+zxtCG8a4gJI5YzBl"
             height={30}
           />
         </a>
-        <a
-          href="
-https://twitter.com/zkdumbcat/"
-        >
+        <a href="https://x.com/dumbcatonbase">
           {" "}
           <Image
             className="lg:w-[40px] lg:h-[40px]"
