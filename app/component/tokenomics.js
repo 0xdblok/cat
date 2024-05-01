@@ -2,7 +2,7 @@ import React from "react";
 import "animate.css";
 export default function Tokenomics() {
   return (
-    <div className="text-center animate__animated animate__fadeInUp font-customfont pt-6">
+    <div className="text-center animate__animated animate__fadeInUp pb-8 font-customfont pt-6">
       <p className="lg:text-6xl animate__animated animate__fadeInUp md:text-4xl [text-shadow:2px_2px_0px_rgba(46,56,125)]   font-customfont text-white  text-center text-3xl  pt-16">
         Tokenomeow!
       </p>
@@ -20,7 +20,7 @@ export default function Tokenomics() {
       <div className="pt-10  text-center text-[#2E387D]">
         <p className=" tracking-[.08em]">Contract Address</p>
         <p className=" tracking-[.08em]">
-          0x04162f660c63079874DAFf3840F9F525B00D8003
+          0xE68AA4963a21a1BeBd7C54798D67BaB886b97dF1
         </p>
       </div>
     </div>
