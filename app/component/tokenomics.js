@@ -7,21 +7,13 @@ export default function Tokenomics() {
         Tokenomeow!
       </p>
       <div className="pt-3  text-[#2E387D]">
-        <p className="tracking-[.08em] animate__animated animate__fadeInUp">
-          TOTAL SUPPLY
-        </p>
-        <p className=" tracking-[.12em] animate__animated animate__fadeInUp">
-          1 BILLION
-        </p>
         <p className=" tracking-[.08em] animate__animated animate__fadeInUp">
-          fair launch for all meows out there!!!{" "}
+          fair launch for all meows out there ON pumpfun !!!{" "}
         </p>
       </div>
       <div className="pt-10  text-center text-[#2E387D]">
         <p className=" tracking-[.08em]">Contract Address</p>
-        <p className=" tracking-[.08em]">
-          0xE68AA4963a21a1BeBd7C54798D67BaB886b97dF1
-        </p>
+        <p className=" tracking-[.08em]">TBA</p>
       </div>
     </div>
   );
